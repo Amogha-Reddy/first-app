@@ -1,0 +1,10 @@
+#Read docs
+
+About Beegfs :
+BeeGFS is a hardware-independent POSIX parallel file system (a.k.a Software-defined Parallel Storage) developed with a strong focus on performance and designed for ease of use, simple installation, and management. BeeGFS is created on an Available Source development model (source code is publicly available), offering a self-supported Community Edition and a fully supported Enterprise Edition with additional features and functionalities including High Availability. BeeGFS is designed for all performance-oriented environments including HPC, AI and Deep Learning, Media & Entertainment, Life Sciences, and Oil & Gas (to name a few)
+
+How Beegfs Works:
+BeeGFS works with lightly weighted, high performant service daemon(s) in the user space over the arbitrated filesystem, such as ext4, xfs, zfs, Hadoop. This allows users to release maximum bandwidths, the higher performance of the hardware realm and delivers network wires speed to the applications. The native BeeGFS client and server components are available for Linux on x86, x86_64, AMD, ARM & OpenPower, or any other CPU architectures.
+
+Why Beegfs:
+BeeGFS allows customers to invest in scalable HPC and AI infrastructures, that deliver from small sites to large scale-out environments, relieving the full bandwidths of their hardware components. BeeGFS increases productivity by delivering faster results, enabling new data analysis methods without changing workflows or applications.
